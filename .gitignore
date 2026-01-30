@@ -1,0 +1,8 @@
+.vercel
+
+# Ignore nested repos and temp folder
+3d-Portfolio-Website-/
+main/
+portfolio/
+temp/
+.claude/
